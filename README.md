@@ -1,2 +1,5 @@
-# telegram-channel-tracker
-Script to monitor telegram channel log
+How to run script:
+
+    pip install pipenv
+    mkdir .venv
+    pipenv install
